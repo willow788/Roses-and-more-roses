@@ -1,0 +1,6 @@
+the main equation of this graph is r = cos(kt)
+all you got to do is understand the main loop 
+we need a t which is the angle that would be later transferred to the quations
+so  first we compute the t then plug this value in the radious equation
+then take the cartesian points of r is calculated and those points are used to draw the graph.
+that's all.
